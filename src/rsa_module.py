@@ -139,3 +139,6 @@ if __name__ == "__main__":
 
     print("Original recuperado corretamente?", original == recovered)
     print("Numero de blocos:", len(cipher_blocks))
+
+
+    fjofwo
